@@ -21,8 +21,11 @@ def bonus
   }
 
   #code your solution here:
-
-  
+     :hero => {name: "Romeo", age: "15", status: "alive"},
+    :heroine => {name: "Juliet", age: "15", status: "alive", "dead"},
+    
+    hero[:status][2]
+    heroine[:status][2]
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
   epic_tragedy
