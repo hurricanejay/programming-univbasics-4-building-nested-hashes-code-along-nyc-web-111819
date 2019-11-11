@@ -22,11 +22,7 @@ def bonus
 
   #code your solution here:
      def bonus
-     status = {"alive", "dead"}
-     status = {"alive", "dead"}
-    
-    hero[status:][2]
-    heroine[status:][2]
+  epic_tragedy[:montague][:hero][:romeo][:status]
     
   end
 
