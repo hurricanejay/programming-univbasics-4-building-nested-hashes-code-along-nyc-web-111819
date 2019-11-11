@@ -23,7 +23,7 @@ def bonus
   #code your solution here:
      def bonus
        :hero => {name: "Romeo", age: "15", status: ["alive", "dead"]},
-    :heroine => {name: "Juliet", age: "15", status: ["alive", "dead"]},
+    :heroine => {name: "Juliet", age: "15", status: ["alive", "dead"]}
     
     hero[:status][2]
     heroine[:status][2]
