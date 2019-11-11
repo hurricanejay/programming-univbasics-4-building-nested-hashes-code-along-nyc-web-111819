@@ -22,8 +22,8 @@ def bonus
 
   #code your solution here:
      def bonus
-     status: {["alive", "dead"]}
-     status: {["alive", "dead"]}
+     status = {"alive", "dead"}
+     status = {"alive", "dead"}
     
     hero[status:][2]
     heroine[status:][2]
