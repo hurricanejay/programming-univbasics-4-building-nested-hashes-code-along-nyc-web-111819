@@ -10,6 +10,6 @@ epic_tragedy = {
     :patriarch => {},
     :matriarch => {},
     :heroine => {},
-    :heroine_friends []
+    :heroine_friends => []
 }
 }
